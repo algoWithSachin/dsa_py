@@ -22,7 +22,7 @@ Key Idea:
 We fill nums1 from the back to avoid overwriting valid data.
 
 Time Complexity: O(m + n)
-Space Complexity: O(1)
+Space Complexity: O(1) - Inplace
 """
 
 from typing import List
